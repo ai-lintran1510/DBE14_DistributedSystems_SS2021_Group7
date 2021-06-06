@@ -1,6 +1,0 @@
-C:\ai-lin\UDP_TCP_MIX\TCPUDPServer\TCPUDPServer\bin\Debug\TCPUDPServer.exe.config
-C:\ai-lin\UDP_TCP_MIX\TCPUDPServer\TCPUDPServer\bin\Debug\TCPUDPServer.exe
-C:\ai-lin\UDP_TCP_MIX\TCPUDPServer\TCPUDPServer\bin\Debug\TCPUDPServer.pdb
-C:\ai-lin\UDP_TCP_MIX\TCPUDPServer\TCPUDPServer\obj\Debug\TCPUDPServer.csproj.CoreCompileInputs.cache
-C:\ai-lin\UDP_TCP_MIX\TCPUDPServer\TCPUDPServer\obj\Debug\TCPUDPServer.exe
-C:\ai-lin\UDP_TCP_MIX\TCPUDPServer\TCPUDPServer\obj\Debug\TCPUDPServer.pdb
