@@ -8,5 +8,5 @@ The group consists of:
 
 # Demonstration Video 
 The Demonstration Video is accessible under the following url: https://drive.google.com/drive/folders/1JgvysuFy0BWbHq-BfJi8vdLw3YEhuhb1?usp=sharing 
-I have configured the google Drive file with limited access, feel free to contact me whenever a problem occurs while trying to access the file. 
+I have configured the google Drive file with limited access, feel free to contact me whenever a problem occurs while trying to access the file (E-Mail to Ai-Lin Lilian Tran)
 
